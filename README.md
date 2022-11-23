@@ -38,7 +38,7 @@ There are `4 different variables` and `162.523 observations` in the dataset.
 1. Clone this repository
 
 ```
-https://github.com/nedimcanulusoy/Association-Rule-Based-Recommender-System
+https://github.com/nedimcanulusoy/Association-Rule-Based-Recommender-System.git
 ```
 
 2. Change directory to the cloned repository
